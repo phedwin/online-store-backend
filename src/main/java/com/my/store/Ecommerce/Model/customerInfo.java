@@ -80,6 +80,7 @@ public class customerInfo implements Serializable {
         this.lastName = lastName;
         this.photo = photo;
         this.username = username;
+
     }
 
     /**
